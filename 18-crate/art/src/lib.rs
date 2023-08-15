@@ -3,9 +3,9 @@
 //! A lib for modelling artistic concepts
 
 // export so people have to not know internal module structure to access PrimaryColor
-use self::kinds::PrimaryColor;
-use self::kinds::SecondaryColor;
-use self::utils::mix;
+pub use self::kinds::PrimaryColor;
+pub use self::kinds::SecondaryColor;
+pub use self::utils::mix;
 
 
 pub mod kinds {
