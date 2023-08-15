@@ -28,7 +28,7 @@ pub mod utils {
     use crate::kinds::*;
 
     /// combines two primary color in equal amt to create secondary color
-    fn mix(x1: PrimaryColor, c2: PrimaryColor) -> SecondaryColor {
+    pub fn mix(x1: PrimaryColor, c2: PrimaryColor) -> SecondaryColor {
         // --snip--
         // ANCHOR_END: here
         return SecondaryColor::Orange;
