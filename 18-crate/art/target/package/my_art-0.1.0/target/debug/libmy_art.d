@@ -1,1 +1,0 @@
-C:\Users\sm101\Documents\projects\RustBook\18-crate\art\target\package\my_art-0.1.0\target\debug\libmy_art.rlib: C:\Users\sm101\Documents\projects\RustBook\18-crate\art\target\package\my_art-0.1.0\src\lib.rs

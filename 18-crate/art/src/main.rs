@@ -3,8 +3,8 @@
 // use art::utils::mix;
 
 // much easy
-use my_art::PrimaryColor;
-use my_art::mix;
+use my_art_shivanshu::PrimaryColor;
+use my_art_shivanshu::mix;
 
 fn main() {
     let red = PrimaryColor::Red;
