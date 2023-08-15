@@ -3,8 +3,8 @@
 // use art::utils::mix;
 
 // much easy
-use art::PrimaryColor;
-use arg::mix;
+use my_art::PrimaryColor;
+use my_arg::mix;
 
 fn main() {
     let red = PrimaryColor::Red;

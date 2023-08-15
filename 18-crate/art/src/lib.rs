@@ -4,7 +4,7 @@
 
 // export so people have to not know internal module structure to access PrimaryColor
 use self::kinds::PrimaryColor;
-use self::utils::SecondaryColor;
+use self::kinds::SecondaryColor;
 use self::kinds::mix;
 
 
