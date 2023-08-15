@@ -5,7 +5,7 @@
 // export so people have to not know internal module structure to access PrimaryColor
 use self::kinds::PrimaryColor;
 use self::kinds::SecondaryColor;
-use self::utils::mix;
+use self::kinds::mix;
 
 
 pub mod kinds {
