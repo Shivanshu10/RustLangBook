@@ -1,0 +1,1 @@
+C:\Users\sm101\Documents\projects\RustBook\14-cli-app\minigrep\target\debug\minigrep.exe: C:\Users\sm101\Documents\projects\RustBook\14-cli-app\minigrep\src\lib.rs C:\Users\sm101\Documents\projects\RustBook\14-cli-app\minigrep\src\main.rs

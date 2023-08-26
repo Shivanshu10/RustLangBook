@@ -1,0 +1,1 @@
+C:\Users\sm101\Documents\projects\RustBook\18-crate\art\target\package\my_art_shivanshu-0.1.0\target\debug\my_art_shivanshu.exe: C:\Users\sm101\Documents\projects\RustBook\18-crate\art\target\package\my_art_shivanshu-0.1.0\src\lib.rs C:\Users\sm101\Documents\projects\RustBook\18-crate\art\target\package\my_art_shivanshu-0.1.0\src\main.rs

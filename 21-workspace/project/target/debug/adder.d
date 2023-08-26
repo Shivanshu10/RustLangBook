@@ -1,0 +1,1 @@
+C:\Users\sm101\Documents\projects\RustBook\19-workspace\project\target\debug\adder.exe: C:\Users\sm101\Documents\projects\RustBook\19-workspace\project\add-one\src\lib.rs C:\Users\sm101\Documents\projects\RustBook\19-workspace\project\adder\src\main.rs
